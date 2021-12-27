@@ -1,16 +1,33 @@
-### Hi there 👋
+Hi there 👋
 
-<!--
-**LazyAnTT/LazyAnTT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an energetic, consistant and hardworking software developer with broad skills in both front-end and back-end stack: 
 
-Here are some ideas to get you started:
+JavaScript;
+TypeScript;
+HTML 5, CSS 3 , SCSS, Flexbox, CSS Grid;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Front-end stack:
+React, Redux, Router;
+Vue, Vuex;
+WebPack;
+
+Back-end stack:
+API & HTPP;
+JSON;
+NodeJS Basics;
+
+Development:
+Git and GitHub;
+TDD; 
+Jest;
+E2E Testing;
+UI;
+DRY, KISS, SOLID;
+
+
+
+
+- 🔭 I’m currently working on To Do List in Angular
+- 🌱 I’m currently learning Angular
+- 📫 How to reach me: linkedin.com/in/raimonds-grube
+
