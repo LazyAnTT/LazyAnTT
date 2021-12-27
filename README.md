@@ -2,26 +2,25 @@ Hi there 👋
 
 I am an energetic, consistant and hardworking software developer with broad skills in both front-end and back-end stack: 
 
-JavaScript;
-TypeScript;
+JavaScript,
+TypeScript,
 HTML 5, CSS 3 , SCSS, Flexbox, CSS Grid;
 
 Front-end stack:
-React, Redux, Router;
+React, Redux, Router,
 Vue, Vuex;
-WebPack;
 
 Back-end stack:
-API & HTPP;
-JSON;
+API & HTPP,
+JSON,
 NodeJS Basics;
 
 Development:
-Git and GitHub;
-TDD; 
-Jest;
-E2E Testing;
-UI;
+Git and GitHub,
+TDD, 
+Jest,
+E2E Testing,
+UI,
 DRY, KISS, SOLID;
 
 
