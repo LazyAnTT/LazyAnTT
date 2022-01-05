@@ -26,7 +26,7 @@ DRY, KISS, SOLID;
 
 
 
-- 🔭 I’m currently working on To Do List in Angular
-- 🌱 I’m currently learning Angular
+- 🔭 I’m currently working on blog with authentication using NodeJS/Express && docker
+- 🌱 I’m currently learning NodeJS, Express, docker
 - 📫 How to reach me: linkedin.com/in/raimonds-grube
 
