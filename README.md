@@ -25,7 +25,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LazyAnTT&show_icons=true&locale=en&layout=compact"  /></p>
   
 <h2>Featured projects:</h2>
-<a href="https://github.com/LazyAnTT/natours-dev-appe" target="_blank" rel="noreferrer"> natours-dev-app </br>
+<a href="https://github.com/LazyAnTT/natours-dev-app" target="_blank" rel="noreferrer"> natours-dev-app </br>
 <img src="https://github.com/LazyAnTT/natours-dev-app/blob/main/public/section-tours.png" alt="natours-dev-app"width="300" height="200"/> </a></br> 
 <a href="https://github.com/LazyAnTT/AngularToDoList" target="_blank" rel="noreferrer"> angular-to-do-list </br>
   <img src="https://github.com/LazyAnTT/AngularToDoList/blob/main/public/angular-todo-list-intro.png" alt="angular-to-do-list"width="300" height="200"/> </a> </br> 
