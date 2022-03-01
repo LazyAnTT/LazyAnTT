@@ -2,7 +2,7 @@
 
 <h3 align="left">I am an energetic, consistant and hardworking software developer with broad skills in front-end and developing back-end skills.</h3>
 
-## 📫 You can reach me: raimis.grube@gmail.com 
+## 📫 You can reach me: raimisgrube@gmail.com 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/2048px-Gmail_Icon_%282013-2020%29.svg.png" alt="link to gmail" height="30" width="30" alt="alt text" title="link to gmail" /></a>
 
