@@ -26,7 +26,7 @@
   <img src="https://github.com/LazyAnTT/natours/blob/master/public/intro.JPG"
        alt="airBnb clone"width="300" height="200"/> </a>  -->
 
-- 🔭 I’m currently working on blog with authentication using NodeJS/Express && docker
-- 🌱 I’m currently learning NodeJS, Express, docker
+- 🔭 I’m currently working on Pineapple app 
+- 🌱 I’m currently learning Atomic design, Storybook
 
 
