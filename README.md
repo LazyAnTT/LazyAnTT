@@ -1,18 +1,22 @@
 <h1 align="center">Hi 👋 I'm Raimonds </h1>
-<h3 align="center">I am an energetic, consistant and hardworking software developer with broad skills in front-end and developing back-end skills.</h3>
-<h3 align="left">- 📫 You can reach me: raimis.grube@gmail.com <a href="mailto:raimis.grube@gmail.com"></h3>
+
+<h3 align="left">I am an energetic, consistant and hardworking software developer with broad skills in front-end and developing back-end skills.</h3>
+
+## 📫 You can reach me: raimis.grube@gmail.com 
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/2048px-Gmail_Icon_%282013-2020%29.svg.png" alt="link to gmail" height="30" width="30" alt="alt text" title="link to gmail" /></a>
+
+
 
 <h2 align="left">Connect with me:</h2>
 <a href="https://www. linkedin.com/in/raimonds-grube/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linked in" title="linked in" height="30" width="40" /></a>
+<a href="mailto:raimis.grube@gmail.com">
 
 
 
 
-
-
-
-
+## 🔭 I’m currently working on Pineapple app 
+## 🌱 I’m currently learning Atomic design, Storybook
 
 
 <h3 align="left">Arsenal for creating web application:</h3>
@@ -26,7 +30,6 @@
   <img src="https://github.com/LazyAnTT/natours/blob/master/public/intro.JPG"
        alt="airBnb clone"width="300" height="200"/> </a>  -->
 
-- 🔭 I’m currently working on Pineapple app 
-- 🌱 I’m currently learning Atomic design, Storybook
+
 
 
