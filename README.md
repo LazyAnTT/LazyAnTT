@@ -9,7 +9,7 @@
 
 
 <h2 align="left">Connect with me:</h2>
-<a href="https://www. linkedin.com/in/raimonds-grube/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linked in" title="linked in" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/raimonds-grube/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linked in" title="linked in" height="30" width="40" /></a>
 <a href="mailto:raimis.grube@gmail.com">
 
 
