@@ -27,12 +27,10 @@
 <h2>Featured projects:</h2>
 <a href="https://github.com/LazyAnTT/natours-dev-app" target="_blank" rel="noreferrer"> natours-dev-app </br>
 <img src="https://github.com/LazyAnTT/natours-dev-app/blob/main/public/section-tours.png" alt="natours-dev-app"width="300" height="200"/> </a></br>
-
-<!-- <a href="https://github.com/LazyAnTT/AngularToDoList" target="_blank" rel="noreferrer"> angular-to-do-list </br>
+<a href="https://github.com/LazyAnTT/AngularToDoList" target="_blank" rel="noreferrer"> angular-to-do-list </br>
   <img src="https://github.com/LazyAnTT/AngularToDoList/blob/main/public/angular-todo-list-intro.png" alt="angular-to-do-list"width="300" height="200"/> </a> </br> 
-  
 <a href="https://github.com/LazyAnTT/Pig-game" target="_blank" rel="noreferrer"> pig-game </br>
-  <img src="https://github.com/LazyAnTT/Pig-game/blob/main/pig-game-intro.png" alt="pig-game"width="300" height="200"/> </a> </br> -->
+  <img src="https://github.com/LazyAnTT/Pig-game/blob/main/pig-game-intro.png" alt="pig-game"width="300" height="200"/> </a> </br>
        
   
 
