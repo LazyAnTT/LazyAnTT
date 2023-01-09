@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Raimonds </h1>
 
-<h3 align="left">I am an energetic, consistant and hardworking software developer with broad skills in front-end and developing back-end skills.</h3>
+<h3 align="left">I am an energetic, consistant and hardworking software developer with broad skills in front-end and back-end.</h3>
 
 ## 📫 You can reach me: raimisgrube@gmail.com 
 
